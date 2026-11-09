@@ -1,0 +1,13 @@
+{
+  "name": "world-id",
+  "displayName": "World ID",
+  "version": "0.1.17",
+  "description": "Connect your World ID. Check your verification status and find services and benefits for verified humans.",
+  "author": {
+    "name": "Tools for Humanity"
+  },
+  "license": "GPL-3.0-only",
+  "logo": "./assets/world-id.png",
+  "skills": "./skills/",
+  "mcpServers": "./.cursor-plugin/mcp.json"
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "world-id": {
+      "url": "https://auth.world.org/mcp",
+      "auth": {
+        "CLIENT_ID": "https://cursor.com/oauth/mcp-client.json",
+        "scopes": [
+          "world-id:read"
+        ]
+      }
+    }
+  }
+}
