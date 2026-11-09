@@ -32,4 +32,4 @@ not authorize purchases or connect partner accounts.
 - [Source](https://github.com/worldcoin/world-id-grokbot-plugin)
 
 Copyright (c) 2026 Tools for Humanity Corporation. Licensed under
-[GPL-3.0-only](LICENSE), without warranty.
+[Apache-2.0 WITH LLVM-exception](LICENSE), without warranty.
