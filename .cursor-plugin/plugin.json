@@ -6,7 +6,7 @@
   "author": {
     "name": "Tools for Humanity"
   },
-  "license": "GPL-3.0-only",
+  "license": "Apache-2.0 WITH LLVM-exception",
   "logo": "./assets/world-id.png",
   "skills": "./skills/",
   "mcpServers": "./.cursor-plugin/mcp.json"
